@@ -1,3 +1,3 @@
-# Strapi application
+# Day to Have a Day CMS
 
-A quick description of your strapi application
+Content Management System for Day to Have a Day. Created using Strapi Headless CMS.
